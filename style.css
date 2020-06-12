@@ -1,0 +1,60 @@
+.header{
+	text-align: right;
+}
+.header strong{
+	display: block;
+	font-family: Courier New;
+	font-weight: lighter;
+	font-size: 72px;
+}
+.header span{
+	font-family: Georgia;
+	font-size: 40px;
+	font-weight: bold;
+}
+.description{
+	margin-top: 200px;
+}
+.description-text{
+	font-size: 22px;
+	font-family: Arial;
+	font-weight: bold;
+
+}
+.description-btn, .subscribe-btn{
+	border: 1px solid black;
+}
+.subscribe-text, .contacts-text{
+	font-family: Arial;
+	font-size: 30px;
+}
+.subscribe{
+	margin-top: 160px;
+}
+.form input{
+   margin-bottom: 20px;
+}
+.subscribe h2{
+	margin-bottom: 30px;
+}
+.subscribe-btn{
+	margin-top: 20px;
+}
+.contacts{
+	margin-top: 150px;
+}
+.contacts-text{
+	margin-bottom: 70px;
+}
+.contacts-box a{
+	text-decoration: none;
+	margin-top: 10px;
+    font-family: Arial;
+    display: block;
+    font-size: 20px;
+    color: black;
+}
+.dap{
+	height: 500px;
+	color: white;
+}
